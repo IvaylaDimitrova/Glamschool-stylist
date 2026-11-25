@@ -188,4 +188,3 @@ glamschool-stylist/
    ```bash
    streamlit run app/main.py
    ```
-```
